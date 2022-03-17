@@ -1,0 +1,1 @@
+To run and solve this assignment, you need an interface to edit and run ipython notebooks (.ipynb files). The easiest way to complete this assignment is to use Google Colab (https://colab.research.google.com/). You can just copy the assignment notebook to your google drive and open it, edit it and run it on Google Colab. All libraries you need are pre-installed on Colab.
